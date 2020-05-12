@@ -1,7 +1,7 @@
 # Web Server & Client
 Make sure to turn your firewall OFF in case you want to set up a server on one host and client on the other host. 
 
-#Basic
+# Basic
 TEST 1
 Suppose the above server program is running. It takes 10 secs for the server to completely process the request.
 Suppose Client A requests the server at t = 0s.
